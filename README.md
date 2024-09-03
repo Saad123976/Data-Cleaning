@@ -1,8 +1,10 @@
 **Data Cleaning Report**
 
+
 **Introduction**
 
 Effective data management is crucial for accurate analysis and decision-making. To improve the quality of our dataset, several data cleaning and transformation techniques were applied. This report summarizes the steps taken to refine the data and the outcomes achieved.
+
 
 **Methodology**
 
@@ -24,6 +26,7 @@ The following procedures were employed to process the dataset:
 
 **Blank Cell Removal:** Deleted blank cells to streamline the dataset.
 
+
 **Results**
 
 The data processing steps resulted in:
@@ -35,6 +38,7 @@ The data processing steps resulted in:
 **Organized Data:** Effective separation of combined fields and proper formatting of percentages.
 
 **Clean Dataset:** Removal of blank cells ensured a more focused and usable dataset.
+
 
 **Conclusions**
 
